@@ -36,7 +36,7 @@ Also, apart from both lists, we should include *functional debt*. This debt shou
 There are two ways of *user stories*, *technical items* and *debt items* organization (maybe more):
 
 * We can create a separate backlog for *technical items* and for *user stories*. We must include each *debt item* in the corresponding backlog.
-* We can create a just one backlog that includes both kind of tasks, *technical items* and *user stories*.
+* We can create just one backlog that includes both kind of tasks, *technical items* and *user stories*.
 
 #### Identify Technical Debt
 
