@@ -1,6 +1,6 @@
 # [Book Title]
 
-### Information
+## Information
 
 | | Book data |
 | --- | --- |
@@ -10,6 +10,6 @@
 | <b>ISBN</b> | |
 | <b>Webpage</b> | |
 
-### [Chapter: Title]
+## [Chapter: Title]
 
-### [Chapter: Title]
+## [Chapter: Title]
