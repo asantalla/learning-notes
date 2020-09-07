@@ -12,7 +12,7 @@
 
 ## Chapter 9: Managing Successful Software Delivery
 
-### Technical Debt
+### Technical Debt
 
 Collaboration between **Product Owners** and **Development Leaders** are mostly based in the following list:
 
@@ -31,7 +31,7 @@ But the product backlog is not complete if it has only user stories. The backlog
 
 Also, apart from both lists, we should include *functional debt*. This debt should be prioritized by the **Product Owners** based in the business needs. That *functional debt* must be treated as a new user story.
 
-#### Organization
+#### Organization
 
 There are two ways of *user stories*, *technical items* and *debt items* organization (maybe more):
 
