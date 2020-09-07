@@ -4,11 +4,11 @@
 
 | | Book data |
 | --- | --- |
-| <b>Title</b>  | |
-| <b>Author</b> | |
-| <b>Release Date</b> | |
-| <b>ISBN</b> | |
-| <b>Webpage</b> | |
+| **Title**  | |
+| **Author** | |
+| **Release Date** | |
+| **ISBN** | |
+| **Webpage** | |
 
 ## [Chapter: Title]
 
