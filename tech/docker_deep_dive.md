@@ -23,12 +23,13 @@ It's useful to think of a Docker image as an object that contains an OS filesyst
 | Command | Description |
 | --- | --- |
 | `docker image ls` | List all the images that you have in your Docker host. |
-| `docker build . -t TAG:VERSION` | Build an image from current directory (the Dockerfile must be there) |
+| `docker build . -t TAG:VERSION` | Build an image from current directory (the Dockerfile must be there). |
 
 ### Containers
 
 | Command | Description |
 | --- | --- |
 | `docker container ps` | List all the running containers. |
-| `docker container run -d -p HOST_PORT:CONTAINER_PORT IMAGE_TAG:IMAGE_VERSION` | Run an image with a port forwarding configuration in background (-d) |
-| `docker stop CONTAINER_ID` | Stop a container using the Container ID given by `docker container ps` |
+| `docker container run -d -p HOST_PORT:CONTAINER_PORT IMAGE_TAG:IMAGE_VERSION` | Run an image with a port forwarding configuration in background (-d). |
+| `docker stop CONTAINER_ID` | Stop a container using the Container ID given by `docker container ps`. |
+| `docker exec -it CONTAINER_ID bash` | Enter a running container.|
