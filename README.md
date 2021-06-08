@@ -17,3 +17,6 @@ The aim of this repository is to collect the list of books and articles that I h
 | Title | Author | Category |
 |---|:---:|:---:|
 | [Persistent Databases Using Docker’s Volumes and MongoDB](https://betterprogramming.pub/persistent-databases-using-dockers-volumes-and-mongodb-9ac284c25b39) | [Mac Rusek](https://medium.com/@macrusek) | ![Tech-Docker](https://img.shields.io/static/v1.svg?label=Tech&message=Docker&color=blue) |
+| Title | Author | Category | Learning Notes |
+|---|:---:|:---:|:---:|
+| [Introduction to Event-driven Architectures With RabbitMQ](https://blog.theodo.com/2019/08/event-driven-architectures-rabbitmq/) | Nicolas Judalet | ![Tech-RabbitMQ](https://img.shields.io/static/v1.svg?label=Tech&message=RabbitMQ&color=blue) | |
